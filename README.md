@@ -1,6 +1,8 @@
 ![Alt text](fds.png)
 
-# 1. Config
+# Front Doors V.0.0
+
+## 1. Config
 
 - Reset (Normalize)
 - Configuring (SCSS by element: desktop / mobil)
@@ -9,7 +11,7 @@
   - Breakpoints
   - Border radius
 
-# 2. Sources
+## 2. Sources
 
 ### Global
   - Color and tints
@@ -72,7 +74,7 @@
 ### Utility classes
 ### Embed (and responsive embed)
 
-# 3. Modules
+## 3. Modules
 
 ### Native
 
@@ -100,7 +102,7 @@
 - Collapse / Accordion
 - Push notification
 
-# 4. Components
+## 4. Components
 
 - Header
 - Footer
@@ -108,7 +110,7 @@
 - Comments
 - Posts
 
-# 5. Templates
+## 5. Templates
 
 - Head (https://github.com/joshbuchea/HEAD)
 - Homepage
