@@ -6,8 +6,6 @@
       |/────|
     Front Doors
 
-# Frontdoor
-
 # Config
 
 – Reset (Normalize)
@@ -122,3 +120,7 @@
 – Homepage
 – Article
 – Etc.
+
+# END
+
+—> NEXT STEP : The Backdoor :)
