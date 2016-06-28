@@ -2,6 +2,8 @@
 
 # Front Doors V.0.0
 
+http://muraker.github.io/front-doors
+
 ## 1. Config
 
 - Reset (Normalize)
@@ -128,4 +130,4 @@
     
 ---
 
-**NEXT STEP : The Backdoor :)**
+**NEXT STEP : The Back Doors :)**
