@@ -1,6 +1,6 @@
 ![Alt text](fds-pic.png)
 
-# Front Doors V.0.0
+# Front Doors V.0.0.0
 
 http://muraker.github.io/front-doors
 
